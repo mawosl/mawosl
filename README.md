@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/your-user-id">@marosl</a> • <a href="https://discord.gg/scpaftermath">ΛFTERMΛTH Discord</a>
+  <a href="https://discord.com/users/396712177395957771">@marosl</a> • <a href="https://discord.gg/scpaftermath">ΛFTERMΛTH Discord</a>
 </p>
