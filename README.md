@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mawosl/mawosl/refs/heads/main/uktz1wF.gif" width="900">
+  <img src="https://raw.githubusercontent.com/mawosl/mawosl/refs/heads/main/uktz1wF.gif" width="700">
 </p>
 
 <p align="center">
