@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.imgur.com/uktz1wF.gif" alt="Epic Character" width="700"/>
+  <img src="https://i.imgur.com/uktz1wF.gif" alt="Pyra Slash GIF" width="700"/>
 </p>
